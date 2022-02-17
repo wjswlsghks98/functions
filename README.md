@@ -1,2 +1,2 @@
-# functions
-Functions for localization, etc
+# Functions
+Functions for localization and filtering, etc
